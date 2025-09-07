@@ -1,0 +1,22 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.hero-img {
+  background-image: url('https://i.imgur.com/QSdh34c.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.project-img {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.gallery-img {
+  height: 180px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+}
